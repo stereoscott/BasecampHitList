@@ -1,0 +1,7 @@
+a.hitlist_task {
+  text-decoration:none;
+}
+a.hitlist_task:hover {
+  text-decoration:underline;
+}
+=
